@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @piot600
-- 👀 I’m interested in football
-- 🌱 Currently Expanding my knowledge in Cloud technologies, with a focus on continuous improvement.
-- 💞️ I’m looking to collaborate on intresting projects.
-- ⚡ Fun fact: I’m a big fan of cold water, always ready for new challenges!
+👋 Hi, I’m @piot600
